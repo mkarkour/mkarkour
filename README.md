@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mehdi</h1>
 <h3 align="center">Join me in my quest to explore the world of data science, and together, we can uncover valuable insights and drive transformative change !</h3>
 
+![python][python]
+![pandas][pandas]
+![numpy][numpy]
+![Plotly][pl]
+![TensorFlow][tensorflow]
+
 - 🔭 I’m currently working on **on the creation of a chatbot using an LLM, a data analysis system to improve decision-making on LOL, and various Deep Learning projects.**
 
 - 🌱 I’m currently learning **The various fields and activities related to the data domain such as: Data Science, Data Analytics, Data Engineering, Machine Learning, Deep Learning and Business Analytics, to name a few.**
 
-- 📫 How to reach me **Don't hesitate to contact me via discord!**
+- 📫 Reach me **via discord!**
 
-- ⚡ Fun fact **I am Poseidon**
+- ⚡ Fun fact : **I am Poseidon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
