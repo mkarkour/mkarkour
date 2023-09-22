@@ -34,12 +34,29 @@
     <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 </p>
 
-<h3 align="left">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/karmehdi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/karmehdi" /></a></p><br><br>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/karkour-mehdi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karkour-mehdi/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/karkourmehdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/karkourmehdi" height="30" width="40" /></a>
-<a href="https://discord.gg/poseidon2112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="poseidon2112" height="30" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td>
+      <h3 align="left">Support:</h3>
+      <p align="center">
+        <a href="https://www.buymeacoffee.com/karmehdi">
+          <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/karmehdi" />
+        </a>
+      </p>
+    </td>
+    <td>
+      <h3 align="center">Connect with me:</h3>
+      <p align="center">
+        <a href="https://linkedin.com/in/https://www.linkedin.com/in/karkour-mehdi/" target="blank">
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karkour-mehdi/" height="30" width="40" />
+        </a>
+        <a href="https://kaggle.com/https://www.kaggle.com/karkourmehdi" target="blank">
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/karkourmehdi" height="30" width="40" />
+        </a>
+        <a href="https://discord.gg/poseidon2112" target="blank">
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="poseidon2112" height="30" width="40" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
