@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mehdi</h1>
 # 💫 About Me:
+Hi 👋, I'm Mehdi
 Join me in my quest to explore the world of data science, and together, we can uncover valuable insights and drive transformative change !<br>🔭 I’m currently working on on the creation of a chatbot using an LLM, a data analysis system to improve decision-making on LOL, and various Deep Learning projects.<br>🌱 I’m currently learning The various fields and activities related to the data domain such as: Data Science, Data Analytics, Data Engineering, Machine Learning, Deep Learning and Business Analytics, to name a few.<br>📫 Reach me via Linkedin or Discord!<br>⚡ Fun fact : I am Poseidon
 
 
