@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi there! 👋 I'm Mehdi.
+
 I am a passionate and results-driven data scientist and technology enthusiast with a proven track record of delivering impactful data-driven solutions across diverse industries. My expertise lies at the intersection of data analytics, data engineering, and business strategy, enabling me to bridge technical innovation with organizational goals to drive growth, efficiency, and transformative change.
 
 With a strong foundation in data science, advanced analytics, and Python programming, I have successfully guided large organizations through their digital transformation journeys, spearheaded strategic initiatives, and implemented scalable data solutions that deliver measurable results. My professional background spans multiple sectors, including payment services, financial reporting, and accounting, as well as hands-on experience as a data engineer and analyst in the automotive industry. Additionally, I bring valuable experience in management, consultancy strategy, and supply chain operations, which has honed my ability to align data-driven insights with overarching business objectives and operational efficiency. This diverse experience has equipped me with a unique ability to adapt to complex challenges and deliver tailored solutions that align with business needs.
@@ -17,7 +18,7 @@ Soooo join me in my quest to explore the world of data science!
 <br>⚡ Fun fact : I am **Poseidon**
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 <div align="left">
  <a href="https://www.linkedin.com/in/karkour-mehdi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -47,4 +48,9 @@ Soooo join me in my quest to explore the world of data science!
 ###
 
 ## 💰 You can support me here!
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/karmehdi) 
+<p align="center">
+  <a href="https://buymeacoffee.com/karmehdi">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+  </a>
+</p>
+
