@@ -7,18 +7,18 @@ With a robust foundation in statistical analysis, machine learning implementatio
 
 This multidisciplinary background enables me to approach complex problems holistically, aligning sophisticated technical solutions with strategic business imperatives. I excel at translating raw data into actionable intelligence through innovative methodologies and cutting-edge technologies.
 
-#### Current Projects
+#### 🪴Current Projects
 
 I am currently focused on:
 - Developing a conversational AI solution utilizing large language models
 - Creating an advanced analytics framework for competitive gaming strategy optimization
 - Implementing several deep learning research initiatives
 
-#### Technical Expertise
+#### 🔧Technical Expertise
 
 My core competencies include data science, advanced analytics, data engineering, machine learning, deep learning, and business intelligence. I continually expand my knowledge across emerging technologies to maintain a leading position in the field.
 
-#### Professional Collaboration
+#### 🤝Professional Collaboration
 
 I welcome opportunities to collaborate on challenging data science initiatives that push technical boundaries and deliver substantial business value. Through thoughtful partnership, we can harness the transformative potential of data to drive innovation and achieve meaningful outcomes.
 
@@ -58,7 +58,7 @@ Connect with me on LinkedIn to discuss potential collaborations or knowledge exc
 
 ###
 
-### 💰 You can support me here!
+### ☕ Support My Work
 <p align="center">
   <a href="https://buymeacoffee.com/karmehdi">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
