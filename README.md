@@ -59,7 +59,7 @@ Connect with me on LinkedIn to discuss potential collaborations or knowledge exc
 ###
 
 ### ☕ Support My Work
-<p align="center">
+<p align="left">
   <a href="https://buymeacoffee.com/karmehdi">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
   </a>
