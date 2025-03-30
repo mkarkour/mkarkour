@@ -1,35 +1,44 @@
 ### 💫 About Me
 Hi there! 👋 I'm Mehdi.
 
-I am a passionate and results-driven data scientist and technology enthusiast with a proven track record of delivering impactful data-driven solutions across diverse industries. My expertise lies at the intersection of data analytics, data engineering, and business strategy, enabling me to bridge technical innovation with organizational goals to drive growth, efficiency, and transformative change.
+I am a data scientist and technology strategist with extensive experience delivering high-impact data solutions across multiple industries. My expertise combines advanced analytics, data engineering, and business acumen to transform organizational challenges into data-driven opportunities.
 
-With a strong foundation in data science, advanced analytics, and Python programming, I have successfully guided large organizations through their digital transformation journeys, spearheaded strategic initiatives, and implemented scalable data solutions that deliver measurable results. My professional background spans multiple sectors, including payment services, financial reporting, and accounting, as well as hands-on experience as a data engineer and analyst in the automotive industry. Additionally, I bring valuable experience in management, consultancy strategy, and supply chain operations, which has honed my ability to align data-driven insights with overarching business objectives and operational efficiency. This diverse experience has equipped me with a unique ability to adapt to complex challenges and deliver tailored solutions that align with business needs.
+With a robust foundation in statistical analysis, machine learning implementation, and Python development, I have successfully guided enterprise-level digital transformation initiatives and designed scalable data architectures that yield measurable business outcomes. My professional experience spans diverse sectors including financial services, regulatory reporting, and automotive analytics, complemented by significant expertise in management consultancy and supply chain optimization.
 
-I thrive on turning raw data into actionable insights, leveraging cutting-edge tools and methodologies to solve real-world problems. Whether it’s building robust data pipelines, developing predictive models, or uncovering hidden patterns in data, I am committed to driving innovation and creating value through data science.
+This multidisciplinary background enables me to approach complex problems holistically, aligning sophisticated technical solutions with strategic business imperatives. I excel at translating raw data into actionable intelligence through innovative methodologies and cutting-edge technologies.
 
-Let’s connect and collaborate!
-I’m always excited to explore new opportunities, tackle challenging problems, and contribute to projects that push the boundaries of what’s possible with data. Together, we can unlock the full potential of data to fuel growth, inspire innovation, and create meaningful impact.
+#### Current Projects
 
-Soooo join me in my quest to explore the world of data science!
+I am currently focused on:
+- Developing a conversational AI solution utilizing large language models
+- Creating an advanced analytics framework for competitive gaming strategy optimization
+- Implementing several deep learning research initiatives
 
-<br>🔭 I’m currently working on on the creation of a chatbot using an LLM, a data analysis system to improve decision-making on LOL, and various Deep Learning projects.
-<br>🌱 I’m currently expanding my expertise by diving into various data-related technologies and disciplines, including Data Science, Data Analytics, Data Engineering, Machine Learning, Deep Learning, and Business Analytics, among others.
-<br>📫 Reach me via Linkedin!
-<br>⚡ Fun fact : I am **Poseidon**
+#### Technical Expertise
 
+My core competencies include data science, advanced analytics, data engineering, machine learning, deep learning, and business intelligence. I continually expand my knowledge across emerging technologies to maintain a leading position in the field.
+
+#### Professional Collaboration
+
+I welcome opportunities to collaborate on challenging data science initiatives that push technical boundaries and deliver substantial business value. Through thoughtful partnership, we can harness the transformative potential of data to drive innovation and achieve meaningful outcomes.
+
+Connect with me on LinkedIn to discuss potential collaborations or knowledge exchange.
+
+*Fun fact: Colleagues occasionally refer to me as "Poseidon" for my ability to navigate and harness vast oceans of data.*
 
 ### ✉️ Contact
 <div align="left">
- <a href="https://www.linkedin.com/in/karkour-mehdi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/poseidon2112" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/karkour-mehdi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
   </a>
   <a href="mailto:probo32112@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="32" alt="Email" />
+  </a>
+  <a href="https://discord.com/users/poseidon2112" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="32" alt="Discord" />
   </a>
 </div>
+<p>I welcome opportunities to discuss data science collaborations, research initiatives, or consulting engagements. Please connect via LinkedIn for professional inquiries or email for direct communication.</p>
 
 
 ### 🚀 My Tech Stack
